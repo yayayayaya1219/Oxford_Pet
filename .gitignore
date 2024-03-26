@@ -1,0 +1,11 @@
+/demo.py
+*.jpg
+*.log
+/run/
+/visualization/
+/configs/catfood.yaml
+/dir/
+.idea
+/data/
+__pycache__*/
+.DS_Store

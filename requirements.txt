@@ -1,0 +1,8 @@
+# Usage: pip install -r requirements.txt
+
+torchmetrics
+opencv-python
+numpy
+tqdm
+Pillow
+grad-cam
